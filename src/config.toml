@@ -5,3 +5,7 @@ theme = "SimpleIntro"
 
 [params]
     favicon = "/favicon.ico"
+    mainbg = "/image/header.jpg"
+    name = "Federico García"
+    mainTitle = " "
+    mainText = " "
