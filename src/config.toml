@@ -2,3 +2,6 @@ baseURL = "https://fedegarcia.com.ar/"
 languageCode = "en-us"
 title = "Federico García | Jr. Software Developer"
 theme = "SimpleIntro"
+
+[params]
+    favicon = "/favicon.ico"
