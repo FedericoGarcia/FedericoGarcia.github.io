@@ -1,0 +1,25 @@
+title = "Hi, I'm Fede!"
+
+text = """I'm an electronics technician and engineering student;
+I play guitar and piano, and I'm a finance and music enthusiast.
+
+I started programming at the age of 13 in my spare time, something
+that started as a hobby and today I'm happy to say that it's my job.
+I invite you to take a look at my portfolio, and get in touch if you like!
+"""
+
+[[link]]
+    icon = "fab fa-twitter"
+    url = "https://twitter.com/HelloV0id"
+[[link]]
+    icon = "fab fa-linkedin"
+    url = "https://www.linkedin.com/in/garciafederico"
+[[link]]
+    icon = "fab fa-github"
+    url = "https://github.com/FedericoGarcia"
+[[link]]
+    icon = "fab fa-stack-overflow"
+    url = "https://stackoverflow.com/users/6604887"
+[[link]]
+    icon = "fas fa-envelope"
+    url = "mailto:garciafedericoagustin@gmail.com"
