@@ -19,11 +19,8 @@ jobs:
       with:
           hugo-version: 'latest'
 
-    - name: Clean public directory
-      run: rm -rf public
-
     - name: Build
-      run: hugo -s src/ --minify
+      run: hugo -s src/ --minify -d ../public
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
