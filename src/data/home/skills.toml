@@ -1,0 +1,90 @@
+[[list]]
+    name = "Git"
+    icon = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    text = """In all my projects I use the version control system Git, using conventions to make commits and auto-generate changelogs. I also use submodules that allow me to reuse certain parts of my projects and to carry out an optimal development of them.
+    """
+
+[[list]]
+    name = "GitHub"
+    icon = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+    text = """The main host of my repositories is GitHub, where I connect with other developers in an open source ecosystem; I also use Github Actions, their CI/CD system.
+    """
+
+[[list]]
+    name = "Visual Studio Code"
+    icon = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+    text = """My favorite code editor is VS Code, it is fast and very customizable. It integrates seamlessly with the terminal and Git. I get the most out of it with its extensions dedicated to each programming language.
+    """
+
+# [[list]]
+#     name = "Docker"
+#     icon = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+#     text = """
+#     """
+
+# [[list]]
+#     name = "Kubernetes"
+#     icon = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
+#     text = """
+#     """
+
+# [[list]]
+#     name = "Amazon Web Services"
+#     icon = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+#     text = """
+#     """
+
+# [[list]]
+#     name = "Google Cloud Platform"
+#     icon = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+#     text = """
+#     """
+
+[[list]]
+    name = "C/C++"
+    icon = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+    text = """C++ is the first programming language I learned, I started in command line and later implemented it in the development of embedded systems such as PIC microcontrollers.
+    """
+
+[[list]]
+    name = "Python"
+    icon = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    text = """I mainly use it for data science, in conjunction with NumPy, SciPy, Pandas, YFinance, Statistics, Requests, BS4 among others.
+        I use Poetry as a virtual development environment, packager and dependency manager for my applications and packages, and Pytest for testing them.
+    """
+
+# [[list]]
+#     name = "JavaScript"
+#     icon = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+#     text = """
+#     """
+
+# [[list]]
+#     name = "Kotlin"
+#     icon = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
+#     text = """
+#     """
+
+[[list]]
+    name = "Arduino"
+    icon = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
+    text = """With Arduino I develop hardware and software prototypes of home automation, security, production systems control, robotics, etc. products.
+    """
+
+# [[list]]
+#     name = "MySQL"
+#     icon = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+#     text = """
+#     """
+
+# [[list]]
+#     name = "MongoDB"
+#     icon = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+#     text = """
+#     """
+
+# [[list]]
+#     name = "Firebase"
+#     icon = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+#     text = """
+#     """
