@@ -19,6 +19,9 @@ jobs:
       with:
           hugo-version: 'latest'
 
+    - name: Create cname file
+      run: echo 'fedegarcia.com.ar' > public/CNAME
+
     - name: Build
       run: hugo -s src/ --minify -d ../public
 
