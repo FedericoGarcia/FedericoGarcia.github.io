@@ -1,0 +1,20 @@
+[[list]]
+    title = "IMDbScraper"
+    image = "/image/project/IMDbScraper/IMDbScraper-0.jpg"
+    url = "https://github.com/FedericoGarcia/IMDbScraper"
+    text = """Module that extracts information directly from IMDb.com (web scraping).
+    """
+
+[[list]]
+    title = "LTIPortfolio"
+    image = "/image/project/LTIPortfolio/LTIPortfolio-0.jpg"
+    url = "https://github.com/FedericoGarcia/LTIPortfolio"
+    text = """Long-term investment portfolio analysis (yfinance, statistics).
+    """
+
+[[list]]
+    title = "PySpek"
+    image = "/image/project/PySpek/PySpek-0.jpg"
+    url = "https://github.com/FedericoGarcia/PySpek"
+    text = """Acoustic spectrum analyzer of audio files (FFT, binary files).
+    """
